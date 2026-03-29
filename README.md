@@ -37,3 +37,8 @@ I also made a pcb for this week, its in the shape of a bird!
 Here's a photo of that!
 
 <img width="408" height="497" alt="weekTwoPCBSS" src="https://github.com/user-attachments/assets/3506810a-7d3d-4b67-b61d-30e097a5af26" />
+
+And of my schematic
+
+<img width="428" height="343" alt="weekTwoSCHSS" src="https://github.com/user-attachments/assets/ef49ee6e-ec27-4b0c-a0dc-3d0f2db11639" />
+
