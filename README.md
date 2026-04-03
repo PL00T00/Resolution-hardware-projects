@@ -42,3 +42,28 @@ And of my schematic
 
 <img width="428" height="343" alt="weekTwoSCHSS" src="https://github.com/user-attachments/assets/ef49ee6e-ec27-4b0c-a0dc-3d0f2db11639" />
 
+
+
+# Week Three!
+
+For week three we learnt how to use IC's so I decided to make a 555 chaser! It's quite famous in the circuitry world for how simple it is, the IC's do all the work! The 555 controls the timing and gives that information to the 4017 which can control the LED's. I also included a petentiometer which controls the resistance and changes the delay.
+
+Here's a photo!
+
+
+<img width="1407" height="854" alt="weekThreeSCHSS" src="https://github.com/user-attachments/assets/d9fb3d9a-6dbb-4181-bee6-4047f5195e5d" />
+
+Here's a video of me making it!
+
+
+
+Here's a 2d render of my PCB!
+
+
+<img width="691" height="670" alt="weekThreePCBSS" src="https://github.com/user-attachments/assets/fe758816-697c-4a59-af2a-8891d5c8e3b7" />
+
+
+And here's a 3D render of my PCB!
+
+
+<img width="406" height="428" alt="Screenshot_20260403_200225" src="https://github.com/user-attachments/assets/1bd02080-48c6-4c0b-be18-73404adca501" />
