@@ -55,7 +55,7 @@ Here's a photo!
 
 Here's a video of me making it!
 
-
+https://lapse.hackclub.com/timelapse/mSmqghIO_AY9
 
 Here's a 2d render of my PCB!
 
